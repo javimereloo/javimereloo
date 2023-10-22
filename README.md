@@ -1,5 +1,6 @@
-<img src="banner2.png">
-
+<div align="left">
+  <img src="banner2.png" >
+</div>
 <!---
 <div align="center">
   <h1> Hi! I'm Javi 👋</h1>
