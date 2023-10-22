@@ -1,8 +1,9 @@
+<img src="banner.png">
+
+<!---
 <div align="center">
   <h1> Hi! I'm Javi 👋</h1>
 </div>
-
-<!---
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=gray&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Engineer;Self-taught+Backend+Developer;Active+Learner;CTF+Newbie;Love+to+learn+new+stuffs"></a>
 </p>
