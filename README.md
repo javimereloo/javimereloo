@@ -1,5 +1,5 @@
+<img style="width: 100%;" src="banner2.png" >
 
-![Banner](banner2.png)
 <!---
 <div align="center">
   <h1> Hi! I'm Javi 👋</h1>
