@@ -9,13 +9,13 @@
 </p>
 -->
 
-###  About me <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
+###  About me <picture><img src = "about_me.gif" width = 30px></picture>
 - A recently graduated computer science engineer
 - Currently learning backend development by myself
 - Hardware lover 
 - open for a new job opportunity, check my resume below
 
-### Contact me on 
+### Contact me <picture><img src = "https://images.emojiterra.com/google/noto-emoji/unicode-15/color/svg/260e.svg" width = 30px></picture>
 <p align="left ">
    <a href="https://www.linkedin.com/in/javimerelo" target="blank" style="text-decoration: none;">
      <img align="center"
