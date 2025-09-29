@@ -10,10 +10,10 @@
 -->
 
 ###  About me <picture><img src = "about_me.gif" width = 30px></picture>
-- A recently graduated computer science engineer
-- Currently learning backend development by myself
-- Hardware lover 
-- open for a new job opportunity, check my resume below
+- Bachelor of Computer Engineering, with a specialization in Communication Technologies.
+- Currently working as a backend developer using Java and Spring Boot.
+- Hardware lover and photograpy passionate 
+- Open for exciting tech opportunities, check my LinkedIn profile below
 
 ### Contact me <picture><img src = "https://images.emojiterra.com/google/noto-emoji/unicode-15/color/svg/260e.svg" width = 30px></picture>
 <p align="left ">
